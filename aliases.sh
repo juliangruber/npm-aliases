@@ -1,3 +1,3 @@
 alias ni="npm install"
 alias nis="npm install --save"
-alias nid="npm install --dev"
+alias nid="npm install --save-dev"
