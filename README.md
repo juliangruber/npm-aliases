@@ -16,6 +16,7 @@ $ source aliases.sh
 | `ni`  | `npm install` |
 | `nis` | `npm install --save` |
 | `nid` | `npm install --save-dev` |
+| `nr`  | `npm run-script` |
 
 ## License
 
