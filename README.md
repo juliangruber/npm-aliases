@@ -18,6 +18,7 @@ $ source aliases.sh
 | `nid` | `npm install --save-dev` |
 | `nig` | `npm install -g` |
 | `nt`  | `npm test` |
+| `nit` | `npm install && npm test` |
 | `nr`  | `npm run-script` |
 
 ## License
