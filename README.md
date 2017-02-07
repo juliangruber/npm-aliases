@@ -20,6 +20,7 @@ $ source aliases.sh
 | `nt`  | `npm test` |
 | `nit` | `npm install && npm test` |
 | `nr`  | `npm run-script` |
+| `nl`  | `npm link` |
 
 ## License
 
