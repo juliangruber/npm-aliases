@@ -18,6 +18,8 @@ $ source aliases.sh
 | `nig` | `npm install -g` |
 | `nt`  | `npm test` |
 | `nit` | `npm install && npm test` |
+| `nis` | `npm install && npm start` |
+| `nits` | `npm install && npm test && npm start` |
 | `nr`  | `npm run-script` |
 | `nl`  | `npm link` |
 
