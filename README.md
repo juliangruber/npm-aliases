@@ -11,17 +11,18 @@ $ source aliases.sh
 
 ## Aliases
 
-| Alias | Command |
-|-------|---------|
-| `ni`  | `npm install` |
-| `nid` | `npm install --save-dev` |
-| `nig` | `npm install -g` |
-| `nt`  | `npm test` |
-| `nit` | `npm install && npm test` |
-| `nis` | `npm install && npm start` |
+| Alias  | Command |
+|--------|---------|
+| `ni`   | `npm install` |
+| `nid`  | `npm install --save-dev` |
+| `nig`  | `npm install -g` |
+| `nt`   | `npm test` |
+| `nit`  | `npm install && npm test` |
+| `nis`  | `npm install && npm start` |
 | `nits` | `npm install && npm test && npm start` |
-| `nr`  | `npm run-script` |
-| `nl`  | `npm link` |
+| `nr`   | `npm run-script` |
+| `ns`   | `npm start` |
+| `nl`   | `npm link` |
 
 ## License
 
