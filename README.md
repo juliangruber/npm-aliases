@@ -23,6 +23,7 @@ $ source aliases.sh
 | `nr`   | `npm run-script` |
 | `ns`   | `npm start` |
 | `nl`   | `npm link` |
+| `nw`   | `npm run watch` |
 
 ## License
 
